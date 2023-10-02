@@ -8,7 +8,7 @@
 class Point:  # By convention classes start with a capital letter (Pascal naming convention)
     def __init__(
         self, x, y
-    ):  # Self is a reference to the current ojbject #This method is a constructor. 
+    ):  # Self is a reference to the current ojbject #This method is a constructor.
         # This methjod is used to contruct or create an object
         self.x = x
         self.y = y
